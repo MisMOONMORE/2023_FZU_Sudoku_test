@@ -1,0 +1,125 @@
+body{
+    background-color: rgb(151, 218, 247);
+}
+#sdyx{
+    color: #007bff;
+}
+
+#c1{
+    margin-left:50px;
+    margin-right:10px;
+}
+#c2{
+    margin-right:10px;
+}
+
+#c4{
+    margin-top: 10px;
+    margin-left:50px;
+    margin-right:10px;
+}
+#c5{
+    margin-top: 10px;
+    margin-right:10px;
+}
+#c6{
+    margin-top: 10px;
+}
+#c7{
+    margin-top: 10px;
+    margin-left:50px;
+    margin-right:10px;
+}
+#c8{
+    margin-top: 10px;
+    margin-right:10px;
+}
+#c9{
+    margin-top: 10px;
+}
+
+#chkUseBuffer{
+    color: #007bff;
+    margin-left:180px;
+
+}
+
+#seleLevel{
+    background-color: #ffffff;
+    color: #007bff;
+    display: block;
+    /* margin: 15px auto; */
+    padding: 10px 20px;
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-left: 300px; 
+    margin-top: -20px;
+    margin-bottom: 20px;
+
+}
+
+
+#btnInitSudo{
+    background-color: #007bff;
+    color: #fff;
+    display: block;
+    /* margin: 15px auto; */
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-left: 450px; 
+    margin-top: -55px;
+    margin-bottom: 20px;
+}
+
+
+#btnShowOptNumber{
+    background-color: #007bff;
+    color: #fff;
+    display: block;
+    /* margin: 15px auto; */
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-top: -55px;
+    margin-left: 620px;
+    margin-bottom: 20px;
+}
+
+#btnClearAll{
+    background-color: #007bff;
+    color: #fff;
+    display: block;
+    /* margin: 15px auto; */
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-top: -55px;
+    margin-left: 800px;
+    margin-bottom: 20px;
+
+}
+
+#btnEditMode{
+    background-color: #007bff;
+    color: #fff;
+    display: block;
+    /* margin: 15px auto; */
+    padding: 10px 20px;
+    font-size: 12px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    margin-top: -55px;
+    margin-left: 970px;
+    margin-bottom: 20px;
+
+}
